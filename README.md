@@ -1,10 +1,8 @@
-<p align="left">Olá! Eu me chamo Edson Luiz Mendonça Ramos e sou um desenvolvedor Front-End</p>
+<p align="center">Olá! Eu me chamo Edson Luiz Mendonça Ramos e sou um desenvolvedor Front-End</p>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB5eGkyN3g1dWR2MmYzZzRzNDFidTlhbjI2czZ2cXZzb2Q1amdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
+<img align="right" height="240" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB5eGkyN3g1dWR2MmYzZzRzNDFidTlhbjI2czZ2cXZzb2Q1amdzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
 
@@ -15,7 +13,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
