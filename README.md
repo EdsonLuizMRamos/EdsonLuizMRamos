@@ -1,10 +1,10 @@
-<h2 align="center">Olá! Bem-vindo ao meu GitHub!</h2>
+<h1 align="center">Olá! Bem-vindo ao meu GitHub!</h1>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Troickzin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Edson%20Luiz%20M.%20Ramos" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Troickzin&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou um desenvolvedor Front-End que está começando neste ramo.</p>
+<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e estou começando no desenvolvimento Front-End. <br>Gosto de codar com React.js e estilizar com Sass, além de criar designs responsivos no Figma, usando o conceito de First Mobile.</p>
 
 ###
 
