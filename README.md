@@ -11,11 +11,17 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e estou começando no desenvolvimento Front-End. <br>Gosto de codar com React.js e estilizar com Sass, além de criar designs responsivos no Figma.</p>
+<br clear="both">
+
+<h1 align="center"></h1>
 
 ###
 
 <img align="right" height="240" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBnbzI2dXVyNXh4d3hvMXo5b24wdmMyanQzNDJrYzA1NzA4ZXNmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"  />
+
+###
+
+<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e estou começando no desenvolvimento Front-End. <br>Gosto de codar com React.js e estilizar com Sass, além de criar designs responsivos no Figma.</p>
 
 ###
 
