@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e estou começando no desenvolvimento Front-End. <br>Gosto de codar com React.js e estilizar com Sass, além de criar designs responsivos no Figma.</p>
+<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e sou um desenvolvimento Front-End. <br>Gosto de codar com React.JS/Next.JS e estilizar com Sass/Tailwind, além de criar designs responsivos utilizando o Figma.</p>
 
 ###
 
@@ -42,11 +42,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
