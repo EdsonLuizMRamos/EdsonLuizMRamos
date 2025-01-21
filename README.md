@@ -21,15 +21,7 @@
 
 ###
 
-<h1 align="left" margin="2"></h1>
-
-###
-
 <p align="center">Gosto de codar com Next.JS e estilizar com Sass/Tailwind.<br>No momento estou a criar meus projetos...</p>
-
-###
-
-<h1 align="left" margin="2"></h1>
 
 ###
 
