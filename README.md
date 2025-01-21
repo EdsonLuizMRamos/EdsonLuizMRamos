@@ -1,53 +1,51 @@
-<h1 align="center">Olá! Bem-vindo ao meu GitHub!</h1>
+<h2 align="center">Olá! Bem-vindo ao meu GitHub!</h2>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troickzin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1&custom_title=Edson%20Luiz%20M.%20Ramos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Troickzin&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Troickzin&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Troickzin&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<h1 align="center"></h1>
+<h1 align="left"></h1>
 
 ###
 
-<img align="right" height="240" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBnbzI2dXVyNXh4d3hvMXo5b24wdmMyanQzNDJrYzA1NzA4ZXNmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif"  />
+<img align="right" height="300" src="https://pop.proddigital.com.br/wp-content/uploads/sites/8/2024/07/01-1.jpg"  />
 
 ###
 
-<p align="left">Olá! Meu nome é Edson Luiz Mendonça Ramos, moro na Bahia e sou um desenvolvimento Front-End. <br>Gosto de codar com React.JS/Next.JS e estilizar com Sass/Tailwind, além de criar designs responsivos utilizando o Figma.</p>
+<h4 align="center">Olá! Meu nome é Edson Luiz, moro na Bahia e sou um desenvolvimento Web.</h4>
 
 ###
 
-<br clear="both">
-
-<h1 align="center"></h1>
+<h1 align="left"></h1>
 
 ###
 
-<br clear="both">
+<p align="center">Gosto de codar com Next.JS e estilizar com Sass/Tailwind.<br>No momento estou a criar meus projetos...</p>
+
+###
+
+<h1 align="left"></h1>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="30" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="30" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
