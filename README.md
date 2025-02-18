@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="center">Olá! Meu nome é Edson Luiz, moro na Bahia e sou um desenvolvimento Web.</h3>
+<h3 align="center">Olá! Meu nome é Edson Luiz, e sou um desenvolvimento Web.</h3>
 
 ###
 
