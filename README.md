@@ -1,3 +1,8 @@
+
+<h1 align="center">Olá! Tudo bem? este e meu github 🔷</h1>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -18,9 +23,7 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">Olá! Tudo bem? este e meu github 🔷</h1>
+***
 
 ###
 
@@ -37,6 +40,8 @@
 ###
 
 <br clear="both">
+
+***
 
 <h3 align="center">🔷 Linguagens e Tecnologias</h3>
 
@@ -59,12 +64,11 @@
 	<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>
 </div>
 
 ###
 
-<br clear="both">
+***
 
 <h3 align="center">🔷 Projetos</h3>
 	
@@ -75,6 +79,8 @@
 <div  align="center">
   <img src="https://i.imgur.com/lZJkw1L.png" />
 </div>
+
+***
 
 ###
 
