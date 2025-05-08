@@ -6,7 +6,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/564x/21/10/e4/2110e4a6cfa1286e55aeaddaf65218bd.jpg"  />
+  <img height="250" src="https://i.imgur.com/9WMvXKJ.png"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/474x/ef/8b/dc/ef8bdc49af5f060331b512fca81de31c.jpg"  />
+<img align="right" height="200" src="https://i.imgur.com/gMQMsSB.jpeg"  />
 
 ###
 
