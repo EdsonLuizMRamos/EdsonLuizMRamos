@@ -78,7 +78,7 @@
 <p align="center">Atualmente estou desenvolvendo meu proprio projeto pessoal, o Troick Studio.</p>
 
 <div  align="center">
-  <img src="https://i.imgur.com/lZJkw1L.png" />
+  <img src="https://i.imgur.com/XTSyWNk.png" height="60" />
 </div>
 
 ***
